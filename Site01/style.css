@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(img/walpaper.jpg);
+    background-size: 100%;
+    opacity: 80%;
+    display: inline-block;
+}
+body.blue{
+    background-image: url(img/WalpaperBluee.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+body.red{
+    background-image: url(img/WalpaperRed.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+body.black{
+    background-image: url(img/WalpaperBlack.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+body.pink{
+    background-image: url(img/WalpaperPink.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+body.green{
+    background-image: url(img/WalpaperGreen.jpg);
+    background-size: 100%;
+    opacity: 80%;
+}
+header{
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+img{
+    width: 30vh;
+    height: 30vh;
+}
+div.line{
+    padding: 3px;
+    background-color: brown;
+    border: 10px;
+}
+p{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+p.footer{
+    font-size: 30px;
+    text-align: center;
+}
+img.walle{
+    width: 15vh;
+    height: 15vh;
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+    border-radius: 400px;
+    display: flex;
+align-items: center;
+justify-content: center;
+}
